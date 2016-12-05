@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="multi-lang:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="multi-lang.war">
-      <element id="artifact" artifact-name="multi-lang:war exploded" />
-    </root>
-  </artifact>
-</component>
